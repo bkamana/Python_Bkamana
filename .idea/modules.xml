@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/Python_Adv/Auto_bot/.idea/Auto_bot.iml" filepath="$USER_HOME$/Downloads/Python_Adv/Auto_bot/.idea/Auto_bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../CollectionBDB/.idea/CollectionBDB.iml" filepath="$PROJECT_DIR$/../../CollectionBDB/.idea/CollectionBDB.iml" />
+      <module fileurl="file://C:\Users\bkamana\Documents\Transport_File_Python\List\.idea\List.iml" filepath="C:\Users\bkamana\Documents\Transport_File_Python\List\.idea\List.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Python_Adv/.idea/Python_Adv.iml" filepath="$USER_HOME$/Downloads/Python_Adv/.idea/Python_Adv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Python_Bkamana/.idea/Python_Bkamana.iml" filepath="$PROJECT_DIR$/../../Python_Bkamana/.idea/Python_Bkamana.iml" />
+      <module fileurl="file://C:\Users\bkamana\Documents\Transport_File_Python\Strings\.idea\Strings.iml" filepath="C:\Users\bkamana\Documents\Transport_File_Python\Strings\.idea\Strings.iml" />
+      <module fileurl="file://C:\Users\bkamana\Documents\Transport_File_Python\Tuple\.idea\Tuple.iml" filepath="C:\Users\bkamana\Documents\Transport_File_Python\Tuple\.idea\Tuple.iml" />
+    </modules>
+  </component>
+</project>
